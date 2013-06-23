@@ -12,7 +12,7 @@ Install snippits with [bower][] with the following command
 bower install snippits
 ```
 
-This will install `jquery.snippits.js` into the 'components/snippits'
+This will install `jquery.snippits.js` into the `components/snippits`
 directory. You can include it into you html page with the following
 snippit.
 
@@ -55,13 +55,13 @@ snippit.
 
 #### directory
 
-*default*: 'snippits'
+*default*: `snippits`
 
 Specifies what directory to load the snippits from.
 
 #### onFinish
 
-*default*: function(){ /* do nothing */ }
+*default*: `function(){ /* do nothing */ }`
 
 A callback for when the snippits loading is finished.
 
