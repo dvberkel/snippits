@@ -1,0 +1,10 @@
+{
+  "name": "snippits",
+  "version": "0.0.0",
+  "main": "jquery.snippits.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
